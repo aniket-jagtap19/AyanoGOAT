@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+
+# FastAPI
+.env
+.env.*
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+docker-data/
+*.log
+
+# Neo4j
+neo4j_data/
+data/
+logs/
+plugins/
+import/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+coverage/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Generated files
+*.zip
+
+# Temporary files
+tmp/
+temp/
