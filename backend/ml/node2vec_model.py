@@ -37,3 +37,5 @@ def structural_similarity(n1: str, n2: str) -> float:
         return 0.0
     a, b = np.array(_embeddings[n1]), np.array(_embeddings[n2])
     return float(np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b) + 1e-8))
+
+# Project by Aniket Jagtap, time: - 2026-08-28 22:48:45
