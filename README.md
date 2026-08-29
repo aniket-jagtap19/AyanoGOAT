@@ -303,3 +303,5 @@ For local development without Docker, set `BACKEND_URL=http://localhost:8000` in
 | Database   | Neo4j 5.x                                          |
 | ML         | sentence-transformers, networkx, node2vec, sklearn |
 | Infra      | Docker, Docker Compose                             |
+
+<!-- Project by Aniket Jagtap,  time: - 2026-08-29 11:49:54 -->
