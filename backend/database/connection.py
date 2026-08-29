@@ -17,3 +17,5 @@ def close_driver() -> None:
     if _driver is not None:
         _driver.close()
         _driver = None
+
+# Project by Aniket Jagtap, time: - 2026-08-30 03:17:50
