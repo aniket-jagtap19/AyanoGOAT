@@ -88,3 +88,5 @@ def build_nx_graph() -> nx.DiGraph:
 def get_node2vec_embeddings() -> dict[str, list[float]]:
     G = build_nx_graph()
     return n2v.compute_embeddings(G)
+
+# Project by Aniket Jagtap, time: - 2026-08-31 09:40:07
