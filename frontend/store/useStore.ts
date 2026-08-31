@@ -49,3 +49,5 @@ export const useStore = create<AppState>((set) => ({
   setLoading:          (isLoading)         => set({ isLoading }),
   setError:            (error)             => set({ error }),
 }));
+
+// Project by Aniket Jagtap, time: - 2026-09-01 03:02:12
