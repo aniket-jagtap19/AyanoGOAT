@@ -451,3 +451,5 @@ EVENTS = [
     {"id": "ev_011", "title": "White Room Revelation", "description": "Chabashira reveals partial knowledge of Ayanokoji's origin to him privately.", "season": 3, "day_offset": 420, "affected_characters": ["ayanokoji","chabashira"]},
     {"id": "ev_012", "title": "Final Semester Exam", "description": "All-class strategic confrontation. Hidden alliances determine class rankings.", "season": 3, "day_offset": 450, "affected_characters": ["ayanokoji","horikita","ryuen","sakayanagi","ichinose","nagumo"]},
 ]
+
+# Project by Aniket Jagtap, time: - 2026-09-01 23:01:02
