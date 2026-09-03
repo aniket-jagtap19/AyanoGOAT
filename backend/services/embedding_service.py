@@ -53,3 +53,5 @@ def compute_strategist_embedding(
 ) -> list[float]:
     combined = " ".join(scenario_responses + strategic_choices)
     return encode_text(combined)
+
+# Project by Aniket Jagtap, time: - 2026-09-03 22:21:54
