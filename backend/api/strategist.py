@@ -76,3 +76,5 @@ def get_profile(user_id: str):
         alliance_tendency=float(u.get("alliance", 0.5)),
         similar_characters=[],
     )
+
+# Project by Aniket Jagtap, time: - 2026-09-03 22:21:51
