@@ -15,3 +15,5 @@ def run_write(query: str, params: dict[str, Any] | None = None) -> None:
     driver = get_driver()
     with driver.session() as session:
         session.run(query, params or {})
+
+# Project by Aniket Jagtap, time: - 2026-09-03 09:48:45
