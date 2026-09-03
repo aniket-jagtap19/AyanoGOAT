@@ -12,3 +12,5 @@ def utc_now() -> str:
 
 def clamp(v: float, lo: float = 0.0, hi: float = 1.0) -> float:
     return max(lo, min(hi, v))
+
+# Project by Aniket Jagtap, time: - 2026-09-03 22:21:49
