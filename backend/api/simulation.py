@@ -21,3 +21,5 @@ def run_sim(req: SimulationRequest):
 @router.post("/alliance-stability")
 def alliance_stability(req: AllianceRequest):
     return predict_alliance(req.node1_id, req.node2_id)
+
+# Project by Aniket Jagtap, time: - 2026-09-08 03:02:18
