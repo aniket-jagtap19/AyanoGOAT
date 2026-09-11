@@ -109,3 +109,5 @@ def predict_alliance(n1: str, n2: str) -> dict:
     )
     return {"stability": stability, "trust": trust, "weight": weight,
             "common_rivals": common_rivals, "verdict": verdict}
+
+# Project by Aniket Jagtap, time: - 2026-09-11 10:23:27
