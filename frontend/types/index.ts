@@ -109,3 +109,5 @@ export interface CharacterRelationship {
   trust: number;
   confidence: number;
 }
+
+// Project by Aniket Jagtap, time: - 2026-09-18 17:43:10
